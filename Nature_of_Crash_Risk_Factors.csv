@@ -1,0 +1,131 @@
+Year,Fatal,Serious,Minor,Crash_Cause,Risk_Factor,Total_Crashes
+2020,1081,2611,1666,Careless driving,Population Behaviour,5358
+2019,835,2587,1740,Careless driving,Population Behaviour,5162
+2018,830,2698,2013,Careless driving,Population Behaviour,5541
+2017,720,2951,2027,Careless driving,Population Behaviour,5698
+2016,710,3245,2612,Careless driving,Population Behaviour,6567
+2015,711,1032,3305,Careless driving,Population Behaviour,5048
+2014,640,4295,3773,Careless driving,Population Behaviour,8708
+2013,484,3753,3664,Careless driving,Population Behaviour,7901
+2012,474,3670,4550,Careless driving,Population Behaviour,8694
+2011,721,2982,2817,Careless driving,Population Behaviour,6520
+2020,1303,2031,1094,Reckless driving,Population Behaviour,4428
+2019,1770,2240,1076,Reckless driving,Population Behaviour,5086
+2018,1613,2213,902,Reckless driving,Population Behaviour,4728
+2017,1529,2338,794,Reckless driving,Population Behaviour,4661
+2016,1544,2606,990,Reckless driving,Population Behaviour,5140
+2015,1480,2991,1143,Reckless driving,Population Behaviour,5614
+2014,1439,2935,1296,Reckless driving,Population Behaviour,5670
+2013,1252,3045,1205,Reckless driving,Population Behaviour,5502
+2012,1174,3185,1472,Reckless driving,Population Behaviour,5831
+2011,1456,2620,1108,Reckless driving,Population Behaviour,5184
+2020,201,464,73,Careless pedestrian,Population Behaviour,738
+2019,361,489,275,Careless pedestrian,Population Behaviour,1125
+2018,305,473,201,Careless pedestrian,Population Behaviour,979
+2017,211,320,121,Careless pedestrian,Population Behaviour,652
+2016,254,485,194,Careless pedestrian,Population Behaviour,933
+2015,247,470,168,Careless pedestrian,Population Behaviour,885
+2014,222,415,178,Careless pedestrian,Population Behaviour,815
+2013,222,557,316,Careless pedestrian,Population Behaviour,1095
+2012,15,87,114,Careless pedestrian,Population Behaviour,216
+2011,226,418,182,Careless pedestrian,Population Behaviour,826
+2020,124,221,121,DMC,Motor vehicle condition,466
+2019,111,160,108,DMC,Motor vehicle condition,379
+2018,100,154,98,DMC,Motor vehicle condition,352
+2017,69,174,232,DMC,Motor vehicle condition,475
+2016,0,0,0,DMC,Motor vehicle condition,0
+2015,75,221,194,DMC,Motor vehicle condition,490
+2014,60,195,193,DMC,Motor vehicle condition,448
+2013,60,165,197,DMC,Motor vehicle condition,422
+2012,62,180,203,DMC,Motor vehicle condition,445
+2011,73,163,150,DMC,Motor vehicle condition,386
+2020,146,155,58,Over speeding,Population Behaviour,359
+2019,102,158,62,Over speeding,Population Behaviour,322
+2018,88,162,64,Over speeding,Population Behaviour,314
+2017,138,198,125,Over speeding,Population Behaviour,461
+2016,94,280,214,Over speeding,Population Behaviour,588
+2015,115,441,398,Over speeding,Population Behaviour,954
+2014,99,338,240,Over speeding,Population Behaviour,677
+2013,75,269,148,Over speeding,Population Behaviour,492
+2012,67,153,88,Over speeding,Population Behaviour,308
+2011,103,239,155,Over speeding,Population Behaviour,497
+2020,49,47,12,Passenger falls from vehicle,Road environment,108
+2019,43,33,13,Passenger falls from vehicle,Road environment,89
+2018,51,40,27,Passenger falls from vehicle,Road environment,118
+2017,104,154,132,Passenger falls from vehicle,Road environment,390
+2016,69,100,40,Passenger falls from vehicle,Road environment,209
+2015,80,85,19,Passenger falls from vehicle,Road environment,184
+2014,64,100,54,Passenger falls from vehicle,Road environment,218
+2013,73,137,86,Passenger falls from vehicle,Road environment,296
+2012,82,112,76,Passenger falls from vehicle,Road environment,270
+2011,68,90,51,Passenger falls from vehicle,Road environment,209
+2020,12,22,14,Under influence of alcohol,Population Behaviour,48
+2019,28,60,40,Under influence of alcohol,Population Behaviour,128
+2018,25,50,36,Under influence of alcohol,Population Behaviour,111
+2017,44,99,91,Under influence of alcohol,Population Behaviour,234
+2016,24,96,81,Under influence of alcohol,Population Behaviour,201
+2015,23,121,94,Under influence of alcohol,Population Behaviour,238
+2014,28,132,150,Under influence of alcohol,Population Behaviour,310
+2013,18,87,103,Under influence of alcohol,Population Behaviour,208
+2012,15,87,114,Under influence of alcohol,Population Behaviour,216
+2011,24,84,80,Under influence of alcohol,Population Behaviour,188
+2020,16,17,13,Over loading,Population Behaviour,46
+2019,10,18,9,Over loading,Population Behaviour,37
+2018,17,28,58,Over loading,Population Behaviour,103
+2017,30,70,61,Over loading,Population Behaviour,161
+2016,5,15,10,Over loading,Population Behaviour,30
+2015,9,29,20,Over loading,Population Behaviour,58
+2014,10,17,58,Over loading,Population Behaviour,85
+2013,5,38,35,Over loading,Population Behaviour,78
+2012,5,13,11,Over loading,Population Behaviour,29
+2011,12,27,31,Over loading,Population Behaviour,70
+2020,12,25,4,Dangerous loading,Population Behaviour,41
+2019,18,19,13,Dangerous loading,Population Behaviour,50
+2018,10,29,13,Dangerous loading,Population Behaviour,52
+2017,31,68,63,Dangerous loading,Population Behaviour,162
+2016,6,35,15,Dangerous loading,Population Behaviour,56
+2015,16,59,42,Dangerous loading,Population Behaviour,117
+2014,13,43,38,Dangerous loading,Population Behaviour,94
+2013,7,39,47,Dangerous loading,Population Behaviour,93
+2012,9,20,53,Dangerous loading,Population Behaviour,82
+2011,14,37,32,Dangerous loading,Population Behaviour,83
+2020,4,9,0,Dazzled by lights,Population Behaviour,13
+2019,15,14,9,Dazzled by lights,Population Behaviour,38
+2018,5,7,11,Dazzled by lights,Population Behaviour,23
+2017,26,58,66,Dazzled by lights,Population Behaviour,150
+2016,21,18,10,Dazzled by lights,Population Behaviour,49
+2015,11,22,11,Dazzled by lights,Population Behaviour,44
+2014,3,14,11,Dazzled by lights,Population Behaviour,28
+2013,9,10,6,Dazzled by lights,Population Behaviour,25
+2012,8,19,19,Dazzled by lights,Population Behaviour,46
+2011,11,19,16,Dazzled by lights,Population Behaviour,46
+2020,0,6,13,Obstacle on carriage way,Road environment,19
+2019,1,1,2,Obstacle on carriage way,Road environment,4
+2018,0,0,1,Obstacle on carriage way,Road environment,1
+2017,22,44,52,Obstacle on carriage way,Road environment,118
+2016,0,1,0,Obstacle on carriage way,Road environment,1
+2015,0,4,2,Obstacle on carriage way,Road environment,6
+2014,0,1,2,Obstacle on carriage way,Road environment,3
+2013,0,2,1,Obstacle on carriage way,Road environment,3
+2012,3,12,44,Obstacle on carriage way,Road environment,59
+2011,3,8,13,Obstacle on carriage way,Road environment,24
+2020,231,128,68,Other causes,Motor vehicle condition,427
+2019,284,499,288,Other causes,Motor vehicle condition,1071
+2018,266,507,294,Other causes,Motor vehicle condition,1067
+2017,260,559,325,Other causes,Motor vehicle condition,1144
+2016,249,596,362,Other causes,Motor vehicle condition,1207
+2015,37,103,87,Other causes,Motor vehicle condition,227
+2014,45,129,92,Other causes,Motor vehicle condition,266
+2013,40,100,84,Other causes,Motor vehicle condition,224
+2012,99,264,268,Other causes,Motor vehicle condition,631
+2011,168,321,208,Other causes,Motor vehicle condition,697
+2020,90,67,34,Unknown causes,Road environment,191
+2019,113,213,112,Unknown causes,Road environment,438
+2018,150,231,102,Unknown causes,Road environment,483
+2017,196,230,131,Unknown causes,Road environment,557
+2016,255,272,174,Unknown causes,Road environment,701
+2015,625,960,1396,Unknown causes,Road environment,2981
+2014,703,990,1292,Unknown causes,Road environment,2985
+2013,585,1008,1302,Unknown causes,Road environment,2895
+2012,621,1108,1242,Unknown causes,Road environment,2971
+2011,371,564,643,Unknown causes,Road environment,1578
