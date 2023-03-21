@@ -1,4 +1,4 @@
-,F1-score,Precision,Recall,Accuracy
+Model,F1-score,Precision,Recall,Accuracy
 Decision Tree,0.71,0.72,0.72,0.72
 Random Forest,0.68,0.71,0.67,0.67
 SVM,0.50,0.48,0.62,0.62
