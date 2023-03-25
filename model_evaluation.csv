@@ -1,6 +1,6 @@
 Model,F1-score,Precision,Recall,Accuracy
-Decision Tree,0.71,0.72,0.72,0.72
-Random Forest,0.68,0.71,0.67,0.67
-SVM,0.50,0.48,0.62,0.62
-KNN,0.77,0.82,0.77,0.77
-Logistic Regression,0.47,0.38,0.62,0.62
+Decision Tree,0.75,0.81,0.74,0.74
+Random Forest,0.93,0.93,0.93,0.93
+SVM,0.53,0.62,0.65,0.65
+KNN,0.77,0.78,0.77,0.77
+Logistic Regression,0.57,0.57,0.65,0.65
